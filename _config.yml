@@ -1,11 +1,12 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "RiceYak"
+author: "Philipp Braun"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 url: "https://braunphilipp.github.io"
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
@@ -19,8 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:braunphilipp@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/braunphilipp/braunphilipp.github.io"}
+  - {title: Mail, icon: envelope, url: "mailto:3589810@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/BraunPhilipp"}
+  - {title: Github, icon: github, url: "https://github.com/BraunPhilipp"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
