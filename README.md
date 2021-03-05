@@ -6,7 +6,12 @@ layout: page
 
 ## Installation
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Adjust the `_config.yml` and follow the instruction in [Github Pages](https://pages.github.com/). To run locally use the following commands after installing ruby.
+
+```
+gem install bundler jekyll jekyll-feed
+bundle exec jekyll serve
+```
 
 ## Features
 
